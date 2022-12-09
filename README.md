@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juwonkwon
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jk6240@nyu.edu
 
