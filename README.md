@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @juwonkwon
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jk6240@nyu.edu
+- 👋 Hi, I’m David Kwon
+- 👀 I’m interested in software engineering and web development.
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 💞️ I’m looking to collaborate on any full stack projects!
+- 📫 How to reach me: davidjkwon2610@gmail.com
 
 <!---
 juwonkwon/juwonkwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
